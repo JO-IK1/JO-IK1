@@ -8,7 +8,7 @@
 
 ### Stack
 
-**Core:** `C++` `Python` `Go` `SQL`
+**Core:** `C++` `Go` `Python` `SQL`
 
 **Familiar with:** `C` `C#` `Java` `JavaScript` `HTML` `CSS`
 
@@ -17,7 +17,7 @@
 ### Top Projects
 
 <!-- * **[Project Name](PROJECT_LINK)** · `C++` — ... -->
-* Coming soon...
+* **[CppDefense](https://github.com/JO-IK1/CppDefense)** · `C++` · `CMake` — A tool for C++ lab defenses that challenges students to restore hidden function implementations under time pressure.
 
 ### Personal Projects
 
