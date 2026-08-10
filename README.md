@@ -14,15 +14,12 @@
 
 **Tools:** `CMake` `Git` `GitHub`
 
-### Top Projects
+### Featured Projects
 
 <!-- * **[Project Name](PROJECT_LINK)** · `C++` — ... -->
+
 * **[CppDefense](https://github.com/JO-IK1/CppDefense)** · `C++` · `CMake` — A tool for C++ lab defenses that challenges students to restore hidden function implementations under time pressure.
-
-### Personal Projects
-
-<!-- * **[Project Name](PROJECT_LINK)** · `C++` — ... -->
-* Coming soon...
+* **[Minesweeper](https://github.com/JO-IK1/Minesweeper)** · `C++` · `GoogleTest` · `GitHub Actions` — A console game with clean architecture, deterministic boards, tests, and CI.
 
 ### Contact
 
