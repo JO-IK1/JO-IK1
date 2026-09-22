@@ -28,3 +28,11 @@
 * **[CppDefense](https://github.com/JO-IK1/CppDefense)** · `C++` `Go` `PostgreSQL` `CMake` `Podman` — A source-available platform for C++ lab defenses with a cross-platform CLI, isolated code execution, persistent sessions, and a web backend.
 * **[Minesweeper](https://github.com/JO-IK1/Minesweeper)** · `C++` `GoogleTest` `GitHub Actions` — A console game with clean architecture, deterministic boards, tests, and CI.
 * **[Personal website](https://github.com/JO-IK1/JO-IK1.github.io)** · `HTML` `CSS` `GitHub Pages` `DNS` — My personal domain and home for future portfolio projects.
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/JO-IK1/JO-IK1.github.io/main/cat.jpg"
+    width="420"
+    alt="Cat"
+  >
+</p>
