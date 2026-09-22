@@ -1,6 +1,6 @@
 ## Georgii Zakharev
 
-[`Website`](https://zakharev.ru) ·
+[`Website`](https://jo-a1.ru/) ·
 [`Telegram`](https://t.me/j0_ik1) · 
 [`Email`](mailto:zakharevgeorgii@gmail.com) · 
 [`Discord`](https://discord.com/users/672408354118959135)
